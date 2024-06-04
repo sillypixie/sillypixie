@@ -1,7 +1,5 @@
  Hi, I’m @sillypixie 
-I’m interested in to learning how to code to create website an duse my creativity 
-I’m currently learning js and how to animated with it 
-I’m looking to collaborate on idk
+I’m interested in to learning how to code to create website and use my creativity
 Fun fact: I ain't no fun  
 
 <!---
